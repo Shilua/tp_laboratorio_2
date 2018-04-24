@@ -97,6 +97,7 @@ namespace MiCalculadora
             cmbOperador.Items.Add("-");
             cmbOperador.Items.Add("*");
             cmbOperador.Items.Add("/");
+            cmbOperador.SelectedIndex = 0;
 
         }
 
@@ -117,7 +118,7 @@ namespace MiCalculadora
             txtNumero1.Text = "";
             txtNumero2.Text = "";
             lblResultado.Text = "";
-            cmbOperador.Text = "";
+            cmbOperador.SelectedIndex=0;
         }
 
         private void txtNumero1_TextChanged(object sender, EventArgs e)

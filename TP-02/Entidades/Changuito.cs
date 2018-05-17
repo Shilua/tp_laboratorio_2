@@ -37,7 +37,7 @@ namespace Entidades_2017
         /// <returns></returns>
         public override string ToString()
         {
-            return Changuito.Mostrar(this, ETipo.Todos);
+            return this.Mostrar( ETipo.Todos);
         }
         #endregion
 
@@ -50,14 +50,14 @@ namespace Entidades_2017
         /// <param name="c">Elemento a exponer</param>
         /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
         /// <returns></returns>
-        public static string Mostrar(Changuito c, ETipo tipo) //quitar static
+        public string Mostrar( ETipo tipo) //quitar static
         {
             string retorno;
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", c._productos.Count, c._espacioDisponible);
+            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", this._productos.Count, this._espacioDisponible);
             sb.AppendLine("");
-            foreach (Producto v in c._productos)
+            foreach (Producto v in this._productos)
             {
                 switch (tipo)
                 {

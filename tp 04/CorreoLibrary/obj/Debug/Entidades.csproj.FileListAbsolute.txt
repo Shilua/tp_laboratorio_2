@@ -1,0 +1,9 @@
+C:\Users\taller\Documents\Facultad\laboratorio-y-programacion2\tp 04\CorreoLibrary\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\taller\Documents\Facultad\laboratorio-y-programacion2\tp 04\CorreoLibrary\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\taller\Documents\Facultad\laboratorio-y-programacion2\tp 04\CorreoLibrary\bin\Debug\Entidades.dll.config
+C:\Users\taller\Documents\Facultad\laboratorio-y-programacion2\tp 04\CorreoLibrary\bin\Debug\Entidades.dll
+C:\Users\taller\Documents\Facultad\laboratorio-y-programacion2\tp 04\CorreoLibrary\bin\Debug\Entidades.pdb
+C:\Users\taller\Documents\Facultad\laboratorio-y-programacion2\tp 04\CorreoLibrary\obj\Debug\Entidades.dll
+C:\Users\taller\Documents\Facultad\laboratorio-y-programacion2\tp 04\CorreoLibrary\obj\Debug\Entidades.pdb
+C:\Users\taller\Documents\Facultad\laboratorio-y-programacion2\tp 04\CorreoLibrary\obj\Debug\Entidades.Properties.Resources.resources
+C:\Users\taller\Documents\Facultad\laboratorio-y-programacion2\tp 04\CorreoLibrary\obj\Debug\Entidades.csproj.GenerateResource.cache
